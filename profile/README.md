@@ -1,7 +1,7 @@
-<center>
+<div align="center">
   
-<strong>PyricStudio</strong>
+<h1>PyricStudio</h1>
 
-</center>
+</div>
 
-这是一个由[@EricDing618](https://github.com/EricDing618)创建的学生组织。
+<p>这是一个由[@EricDing618](https://github.com/EricDing618)创建的学生组织。</p>
